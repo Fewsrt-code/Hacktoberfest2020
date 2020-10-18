@@ -5,3 +5,5 @@ fewsrt
 fasac
 
 # Hacktoberfest2020
+
+git add .
